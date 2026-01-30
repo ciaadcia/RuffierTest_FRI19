@@ -7,5 +7,3 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 | instr.py        | File berisi teks instruksi untuk pengguna |
 | second_win.py   | Halaman untuk **timer** (penghitungan waktu selama tes Ruffier) |
 | final_win.py    | Halaman untuk **perhitungan hasil** dan analisis Heart Check / Ruffier Index |
-
-#test commit
