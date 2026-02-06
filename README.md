@@ -15,3 +15,11 @@ LINK REPO
 | Shireen       | [Shireen](https://github.com/shireen333/Ruffier-test.git) |
 | Cica   | [Cica](https://github.com/cuccvsxo/ruffirtest.git) |
 | Zain | [Zain](https://github.com/znnllz/Ruffier-Test-Zen) |
+
+DAY1
+| Name            | Link |
+|-----------------|---------|
+| Nadya     | instr.py |
+| Shireen       | second_win.py |
+| Cica   | final_win.py |
+| Zain | my_app.py |
