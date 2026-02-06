@@ -14,4 +14,4 @@ LINK REPO
 | Nadya     | [Nadya](https://github.com/huangna7/RuffierTest.git)|
 | Shireen       | [Shireen](https://github.com/shireen333/Ruffier-test.git) |
 | Cica   | [Cica](https://github.com/cuccvsxo/ruffirtest.git) |
-| Zain | |
+| Zain | [Zain](https://github.com/znnllz/Ruffier-Test-Zen) |
