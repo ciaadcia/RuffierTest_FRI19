@@ -16,14 +16,14 @@ LINK REPO
 | Zain | [Zain](https://github.com/znnllz/Ruffier-Test-Zen) |
 
 DAY1
-| Name            | Link |
+| Name            | File |
 |-----------------|---------|
 | Nadya     | instr.py |
 | Shireen       | second_win.py |
 | Zain | my_app.py |
 
 DAY2
-| Name            | Link |
+| Name            | File |
 |-----------------|---------|
 | Nadya     | second.py -> def timer test, def timer_sits, def timer_final |
 | Shireen       | final_win.py - > def results  |
